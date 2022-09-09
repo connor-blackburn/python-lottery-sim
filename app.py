@@ -41,7 +41,7 @@ print(attempts_array)
 # Generating the visualisation
 x = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-plt.style.use('seaborn-pastel')
+plt.style.use('seaborn-darkgrid')
 
 fig, ax = plt.subplots(figsize=(12,8))
 
